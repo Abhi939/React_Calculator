@@ -275,7 +275,7 @@ printResultTextCSS = () => {
               <div className="col-md-5">
 
                 <div className="app-header">
-                    <span className="app-title">AJ</span> Calculator 
+                     Calculator 
                     <span className="badge badge-warning">React <small>js</small></span>
                 </div>
 
@@ -354,9 +354,6 @@ printResultTextCSS = () => {
                   </div>
                 </div>
                 
-                <p className="copy-right text-right">
-                    &copy; 2020, <a href="https://github.com/ManiruzzamanAkash" target="_blank">Maniruzzaman Akash </a>
-                </p>
             </div>
             </div>
         </div>
